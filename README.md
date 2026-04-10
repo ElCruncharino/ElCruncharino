@@ -1,4 +1,4 @@
-# Nick Haghiri
+# Nick (Nicholas) Haghiri
 
 Senior Network Engineer & Software Developer building intelligent systems with Go, TypeScript, Python, and Kotlin.
 
